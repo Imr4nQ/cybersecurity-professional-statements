@@ -1,4 +1,4 @@
-# cybersecurity-professional-statements
+# cybersecurity-professional-statement
 
 I am a data-driven professional with a sound foundation in data analytics, supply chain operations, and customer support systems. 
 
